@@ -1,0 +1,37 @@
+
+body {
+    margin-top: 100px;
+    background: #ceecde;
+}
+  
+.card-title {
+    background: #14837d;
+    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 0.5rem;
+    color: #f5f5f5;
+}
+
+.card {
+    border: none;
+    border-radius: 0.5rem;
+}
+
+.angka {
+    background: #14837d ;
+    color: #f5f5f5;
+    width: 100px;
+    font-weight: 500;
+}
+
+.submitBtn {
+    background: #14837d;
+    font-size: 1.2rem;
+    color: #f5f5f5;
+    width: 40px;
+    margin: 0 5px;
+}
+  
+.submitBtn:hover {
+    background: #a2d3d0;
+    color: #333333;
+}
